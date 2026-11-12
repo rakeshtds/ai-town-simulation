@@ -1,0 +1,2 @@
+# No third-party dependencies for mock mode (stdlib only).
+# Ollama mode talks HTTP to a local Ollama server; nothing to install here.
